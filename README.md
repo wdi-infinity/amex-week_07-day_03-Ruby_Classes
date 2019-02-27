@@ -20,7 +20,7 @@ lets practice classes by creating a `Character` Class for Masameer, it is one of
 
 7. create a destination method that takes a location as a parameter.
 
-8. write a statement saying your Character landed arrived in that location.
+8. write a statement saying your Character arrived in that location.
 
 9. create a speak method that takes a catchphrase as a parameter.
 
