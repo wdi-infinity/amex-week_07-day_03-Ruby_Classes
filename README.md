@@ -14,15 +14,11 @@ lets practice classes by creating a `Character` Class for Masameer, it is one of
 
 4. define instance methods for name and location
 
-5. create a driving_speed method that takes the number of kph that the character usually drive as a parameter.
+5. create a driving_speed method that takes the number of kph that the character usually drive as a parameter and print a statement declaring your Character took off.
 
-6. write a statement declaring your Character took off.
+6. create a destination method that takes a location as a parameter and print a statement saying your Character arrived in that location.
 
-7. create a destination method that takes a location as a parameter.
-
-8. write a statement saying your Character arrived in that location.
-
-9. create a speak method that takes a catchphrase as a parameter.
+7. create a speak method that takes a catchphrase as a parameter.
 
 # CALL YOUR METHODS
 
