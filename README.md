@@ -24,14 +24,11 @@ lets practice classes by creating a `Character` Class for Masameer, it is one of
 
 1. Name your Character
 
-2. Write a statement indicating the name and location
+2. Call the destination method with a city in Saudi Arabia
 
-3. Call the destination method with a city in Saudi Arabia
+3. Call the driving_speed method with crazy speed limit as an argument
 
-4. Call the driving_speed method with crazy speed limit as an argument
+4. Call the speak method with a funny catchphrase as an argument
 
-5. Call the speak method with a funny catchphrase as an argument
+5. Change your Character name
 
-6. Change your Character name
-
-7. Write a statement indicating the new name and location
